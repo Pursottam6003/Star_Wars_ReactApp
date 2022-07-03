@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Star_Wars_ReactApp/static/css/main.896f0e83.css",
+    "main.js": "/Star_Wars_ReactApp/static/js/main.f5e093d1.js",
+    "static/js/787.8de9ec28.chunk.js": "/Star_Wars_ReactApp/static/js/787.8de9ec28.chunk.js",
+    "static/media/star.jpg": "/Star_Wars_ReactApp/static/media/star.fbf09c2295ad692ae9db.jpg",
+    "index.html": "/Star_Wars_ReactApp/index.html",
+    "main.896f0e83.css.map": "/Star_Wars_ReactApp/static/css/main.896f0e83.css.map",
+    "main.f5e093d1.js.map": "/Star_Wars_ReactApp/static/js/main.f5e093d1.js.map",
+    "787.8de9ec28.chunk.js.map": "/Star_Wars_ReactApp/static/js/787.8de9ec28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896f0e83.css",
+    "static/js/main.f5e093d1.js"
+  ]
+}
